@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aasthavar/coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/aasthavar/coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aasthavar/coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aasthavar/coding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aasthavar/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aasthavar/coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aasthavar/coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aasthavar/coding/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aasthavar/coding/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aasthavar/coding/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
