@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aasthavar/coding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aasthavar/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aasthavar/coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0735-asteroid-collision](https://github.com/aasthavar/coding/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aasthavar/coding/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/aasthavar/coding/tree/master/0860-design-circular-queue) |
 ## Binary Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aasthavar/coding/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/aasthavar/coding/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/aasthavar/coding/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aasthavar/coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aasthavar/coding/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/aasthavar/coding/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
