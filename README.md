@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aasthavar/coding/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/aasthavar/coding/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/aasthavar/coding/tree/master/0141-linked-list-cycle) |
 ## Simulation
 |  |
 | ------- |
@@ -62,9 +63,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/aasthavar/coding/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/aasthavar/coding/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aasthavar/coding/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aasthavar/coding/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aasthavar/coding/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
