@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aasthavar/coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/aasthavar/coding/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/aasthavar/coding/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aasthavar/coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aasthavar/coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aasthavar/coding/tree/master/0073-set-matrix-zeroes) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aasthavar/coding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/aasthavar/coding/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/aasthavar/coding/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aasthavar/coding/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasthavar/coding/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aasthavar/coding/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aasthavar/coding/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aasthavar/coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aasthavar/coding/tree/master/0155-min-stack) |
@@ -133,5 +136,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aasthavar/coding/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/aasthavar/coding/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aasthavar/coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
