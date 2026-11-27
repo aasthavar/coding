@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aasthavar/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aasthavar/coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/aasthavar/coding/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/aasthavar/coding/tree/master/0860-design-circular-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aasthavar/coding/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aasthavar/coding/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aasthavar/coding/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/aasthavar/coding/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -95,9 +97,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aasthavar/coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aasthavar/coding/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/aasthavar/coding/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aasthavar/coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aasthavar/coding/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/aasthavar/coding/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
