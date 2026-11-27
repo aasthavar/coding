@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aasthavar/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aasthavar/coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0735-asteroid-collision](https://github.com/aasthavar/coding/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aasthavar/coding/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/aasthavar/coding/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/aasthavar/coding/tree/master/0860-design-circular-queue) |
 ## Binary Search
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/aasthavar/coding/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/aasthavar/coding/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/aasthavar/coding/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aasthavar/coding/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasthavar/coding/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aasthavar/coding/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
